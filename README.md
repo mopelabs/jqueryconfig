@@ -5,7 +5,7 @@
 Visit: [jqueryconfig.com](www.jqueryconfig.com)
 
 ## Optimize the Size
-By leaving out functionality that you do not need, you can reduce the file size of jQuery. An smaller, custom build will make your website load faster.
+By leaving out functionality that you do not need, you can reduce the file size of jQuery. A smaller, custom build will make your website load faster.
 
 On [jqueryconfig.com](www.jqueryconfig.com) you can create make your own jQuery,
 selecting only the modules you need.
@@ -13,8 +13,9 @@ selecting only the modules you need.
 
 ## Advantages
 Building your own jQuery with jQueryConfig has the following advantages:
+
 1.  makes it easy to build your own, optimal configuration(\*);
-2.  offers insight in the effect different modules have on the build size. You can fine-tune the configuration by selecting and deselecting individual modules. The size of the configured build -- in kB, minizied -- is shown real-time as a bar graph;
+2.  offers insight in the effect different modules have on the build size. You can fine-tune the configuration by selecting and deselecting individual modules. The size of the configured build -- in kB, minified -- is shown real-time as a bar graph;
 3.  automatically checks for dependencies between modules.
 4.  shows information about selection options;
 ![](info-animation.gif)
@@ -23,7 +24,7 @@ You receive a zipped file containing the uncompressed and minified version of yo
 
 **Please test your application before using it.**
 
-\*) Until now it was'n't very easy to build your own jQuery: jQuery offers the option to create such a build, but only on the command line using node, which is not common knowledge among all jQuery users. Although jQuery offers this option since version 1.8 (July 2012), not many jQuery users are aware of this possibility.
+\*) Until now it wasn't very easy to build your own jQuery: jQuery offers the option to create such a build, but only on the command line using node, which is not common knowledge among all jQuery users. Although jQuery offers this option since version 1.8 (July 2012), not many jQuery users are aware of this possibility.
 
 ## Three releases of jQuery
 The jQueryConfig uses clones of jQuery. To keep it simple, the service of jQueryConfig is restricted to three smartly selected major releases of jQuery:
