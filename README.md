@@ -2,12 +2,12 @@
 
 **Optimize the size of jQuery for your project.**
 
-Visit: [jqueryconfig.com](www.jqueryconfig.com)
+Visit: [jqueryconfig.com](http://www.jqueryconfig.com)
 
 ## Optimize the Size
 By leaving out functionality that you do not need, you can reduce the file size of jQuery. A smaller, custom build will make your website load faster.
 
-On [jqueryconfig.com](www.jqueryconfig.com) you can create your own jQuery,
+On [jqueryconfig.com](http://www.jqueryconfig.com) you can create your own jQuery,
 selecting only the modules you need.
 ![](module-animation.gif)
 
@@ -32,7 +32,7 @@ The jQueryConfig uses clones of jQuery. To keep it simple, the service of jQuery
 - the latest stable version compatible with IE6, IE7 and IE8
 - the latest stable version before the major changes in version 1.9.
 
-If you have special reasons to select different versions, see [jQuery](github.com/jquery/jquery) for the alternative build method.
+If you have special reasons to select different versions, see [jQuery](http://github.com/jquery/jquery) for the alternative build method.
 ![](version-animation.gif)
 
 ## Tips on how to optimize
@@ -48,10 +48,10 @@ Optimize the size by testing. Probably you don't know for sure if a module is ne
 - The ready module might be avoidable by placing your scripts at the end of the body. If you don't need the ajax and effects module, the ready module might be the only reason why the deferred module cannot be excluded. So unless the ready module is needed, bigger savings can be gained with little effort.
 
 ## Questions and bugs
-If you have any questions or problems using [jqueryconfig.com](www.jqueryconfig.com)
+If you have any questions or problems using [jqueryconfig.com](http://www.jqueryconfig.com)
 please create an [issue](https://github.com/mopelabs/jqueryconfig/issues)
 here on github. If you have question about jQuery please use the appropriate
-channels, like [stackoverflow](stackoverflow.com) or [jQuery](github.com/jquery/jquery/issues).
+channels, like [stackoverflow](http://stackoverflow.com) or [jQuery](http://github.com/jquery/jquery/issues).
 
 ## License and disclaimer
 The MIT License (MIT)
