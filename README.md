@@ -1,3 +1,5 @@
+## The site is deprecated. Please use http://jquery.com/download/
+
 # jQueryConfig
 
 **Optimize the size of jQuery for your project.**
